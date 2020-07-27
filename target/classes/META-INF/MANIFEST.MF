@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-rest-services-all-examples-for-sprin
+ gboottutorial.com
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Vijay P
+Implementation-Vendor-Id: com.in28minutes.springboot
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ rest-services-all-examples-for-springboottutorial.com/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
